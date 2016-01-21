@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-size: 20px;
+}
+
+.twitter{
+    background-image: url('./twitter.png#sprites');
+    height: 1000px;
+    width: 1000px;
+}
+
+.facebook{
+    background-image: url('./facebook.png#sprites');
+    height: 100px;
+    width: 100px;
+}
