@@ -4,8 +4,6 @@ var path = require('path')
 var HtmlWebpackPlugin = require('html-webpack-plugin')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 
-const TARGET = process.env.npm_lifecycle_event;
-
 module.exports = {
 
     entry: {
