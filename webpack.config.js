@@ -34,7 +34,9 @@ module.exports = {
 
     postcss: function () {
         return [
-            require('postcss-easysprites')()
+            require('postcss-easysprites')(),
+            require('postcss-assets')()
+
         ];
     }
 };

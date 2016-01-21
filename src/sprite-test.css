@@ -5,8 +5,8 @@ h1{
 
 .twitter{
     background-image: url('./twitter.png#sprites');
-    height: 1000px;
-    width: 1000px;
+    height: height('./twitter.png');
+    widht: width('./twitter.png');
 }
 
 .facebook{
